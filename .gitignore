@@ -1,0 +1,5 @@
+gcp-cloudops-lens-env/
+__pycache__/
+*.pyc
+.DS_Store
+*.env
